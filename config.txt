@@ -106,9 +106,9 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.usxmrpool.com:3333",
-"wallet_address" : "",
-"pool_password" : "",
+"pool_address" : "xmr.crypto-pool.fr:8080",
+"wallet_address" : "42qVwU9PUEcQB126VSqeaNE2G5F3zaNQ3bFz6B2mc1PRN2bdwh97B5wWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3yDfDJu",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
